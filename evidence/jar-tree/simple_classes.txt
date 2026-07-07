@@ -1,0 +1,12 @@
+﻿net.killsay.Config$ProfilesData
+net.killsay.Config
+net.killsay.KillTracker$PendingVictim
+net.killsay.KillTracker
+net.killsay.KillsayMod$1
+net.killsay.KillsayMod
+net.killsay.MatchTracker
+net.killsay.SendManager
+net.killsay.WebGui$FieldConsumer
+net.killsay.WebGui
+net.killsay.mixin.ClientPlayNetworkHandlerMixin
+net.killsay.mixin.MinecraftClientMixin
